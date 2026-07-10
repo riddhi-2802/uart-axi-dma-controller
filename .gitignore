@@ -1,0 +1,9 @@
+# Simulation output
+sim.out
+*.vcd
+
+# GTKWave files
+*.gtkw
+
+# Log files
+*.log
